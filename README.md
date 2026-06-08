@@ -44,8 +44,8 @@ lapathoniia.project.json
 {
   "name": "Назва проєкту",
   "team": "Назва команди або організації",
-  "description_uk": "Короткий опис українською.",
-  "description_en": "Short English description.",
+  "description_uk": "Опис українською до 35 слів.",
+  "description_en": "English description up to 35 words.",
   "website": "https://example.com",
   "demo": "https://example.com/demo",
   "github": "https://github.com/your-org/your-repo",
@@ -58,6 +58,10 @@ lapathoniia.project.json
 Категорію проєкту, моделі та публічні бейджі команда Lapathoniia може уточнити
 під час модерації. На етапі подання достатньо описати сам проєкт і дати
 посилання на репозиторій, сайт або демо.
+
+`description_uk` і `description_en` мають бути короткими: 1-2 речення, до 35
+слів кожною мовою. Опишіть не лише категорію продукту, а конкретно що він
+робить і як використовує моделі Lapathoniia.
 
 ## Assets
 
