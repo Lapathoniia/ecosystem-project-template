@@ -44,8 +44,8 @@ lapathoniia.project.json
 {
   "name": "Назва проєкту",
   "team": "Назва команди або організації",
-  "description_uk": "Опис українською до 35 слів.",
-  "description_en": "English description up to 35 words.",
+  "description_uk": "Опис українською до 50 слів.",
+  "description_en": "English description up to 50 words.",
   "website": "https://example.com",
   "demo": "https://example.com/demo",
   "github": "https://github.com/your-org/your-repo",
@@ -59,7 +59,7 @@ lapathoniia.project.json
 під час модерації. На етапі подання достатньо описати сам проєкт і дати
 посилання на репозиторій, сайт або демо.
 
-`description_uk` і `description_en` мають бути короткими: 1-2 речення, до 35
+`description_uk` і `description_en` мають бути короткими: 1-2 речення, до 50
 слів кожною мовою. Опишіть не лише категорію продукту, а конкретно що він
 робить і як використовує моделі Lapathoniia.
 
@@ -76,7 +76,7 @@ lapathoniia.project.json
 
 - PNG, JPG або SVG;
 - рекомендований розмір 1200x630;
-- файл до 2 MB;
+- файл до 5 MB;
 - без приватних даних, API keys, email-адрес або внутрішніх dashboard-скрінів.
 
 ## Важливо
